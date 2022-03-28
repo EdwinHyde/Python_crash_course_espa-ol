@@ -3,6 +3,6 @@
 
 def hacer_pizza(tamaño, *ingredientes):  # Se crea la funcion
     """Resumiendo la pizza que estamos haciendo."""
-    print(f"Haciendo una pizza de tamaño {tamaño.title()}, con los siguientes ingredientes: ")
+    print(f"\nHaciendo una pizza de tamaño {tamaño.title()}, con los siguientes ingredientes: ")
     for ingrediente in ingredientes:  # Se recorre la tupla con los ingredientes
         print(f"° {ingrediente.title()}")  # Se imprime la tupla.
