@@ -3,5 +3,7 @@
 
 from pizza import *  # desde el archivo pizza.py se importan todas las funciones que tenga
 
-hacer_pizza("grande", "pepperoni", "maní")  # Como se importan todas las funciones del modulo, no es necesario usar el punto para llamar la funcion
+hacer_pizza("grande", "pepperoni", "maní")  # Como se importan todas las funciones del modulo,
+# no es necesario usar el punto (.) para llamar la funcion
+
 hacer_pizza("mediana", "queso", "hongos", "pepino verde")
