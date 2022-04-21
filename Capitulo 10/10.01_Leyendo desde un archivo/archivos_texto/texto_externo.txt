@@ -1,0 +1,3 @@
+Estos son otros datos almacenados en
+una carpeta diferente a la ruta raiz
+del proyecto.
