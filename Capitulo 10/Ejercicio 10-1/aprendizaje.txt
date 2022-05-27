@@ -1,0 +1,6 @@
+En python podemos almacenar datos en variables.
+En python podemos crear bucles o loops para recorrer listas, tuplas u otros arreglos.
+En python podemos crear condicionales para validar la informacion.
+En python podemos crear funciones que son conocidos como subprogramas.
+En python se puede trabajar Programacion Orientada a Objetos (POO).
+En python es posible crear muchas cosas interesantes.

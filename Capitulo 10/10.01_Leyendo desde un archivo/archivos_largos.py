@@ -7,7 +7,7 @@ pi_string = ''
 for line in lines:
     pi_string += line.strip()
 
-print(f"{pi_string[:52]}...")
+print(f"{pi_string[:9]}...")
 print(len(pi_string))
 
 
